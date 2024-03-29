@@ -1,3 +1,5 @@
+require 'date'
+
 Gem::Specification.new do |gem|
   gem.name    = 'omniauth-wakatime'
   gem.version = 1.0
